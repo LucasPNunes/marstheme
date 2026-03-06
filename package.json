@@ -2,9 +2,14 @@
   "name": "marstheme",
   "displayName": "MarsTheme",
   "description": "The red planet feeling theme! :)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "lucaspnunes",
-  "keywords": ["space", "mars", "orange", "red"],
+  "keywords": [
+    "space",
+    "mars",
+    "orange",
+    "red"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/LucasPNunes/marstheme"
