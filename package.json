@@ -3,6 +3,12 @@
   "displayName": "MarsTheme",
   "description": "The red planet feeling theme! :)",
   "version": "0.0.1",
+  "publisher": "lucaspnunes",
+  "keywords": ["space", "mars", "orange", "red"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasPNunes/marstheme"
+  },
   "engines": {
     "vscode": "^1.109.0"
   },
@@ -17,5 +23,8 @@
         "path": "./themes/Mars Theme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
