@@ -4,6 +4,7 @@
   "description": "The red planet feeling theme! :)",
   "version": "0.0.2",
   "publisher": "lucaspnunes",
+  "icon": "icon.png",
   "keywords": [
     "space",
     "mars",
