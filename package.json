@@ -1,0 +1,21 @@
+{
+  "name": "marstheme",
+  "displayName": "MarsTheme",
+  "description": "The red planet feeling theme! :)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mars Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mars Theme-color-theme.json"
+      }
+    ]
+  }
+}
